@@ -23,7 +23,7 @@ TO CHECK
 then such files and folders name are kept (name mention) in .gitignore file. = " gitignore" should be
 
 
-7. git add
+7. git add .
     >>> add all the changes to the git. this is done exactly before commiting the code
 
 8. git commit -m "<commiting-message>"
