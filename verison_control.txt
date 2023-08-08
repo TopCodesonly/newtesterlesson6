@@ -28,3 +28,21 @@ then such files and folders name are kept (name mention) in .gitignore file. = "
 
 8. git commit -m "<commiting-message>"
 
+9. git branch
+    >>> showes all the branchs and highlight the current branch
+
+10. git branch -M main
+    >>> makes "main" branch as the remote branch
+
+11.git remote add origin <sss-link>>>
+    >>> add a remote with name 'orgin' in local repo
+
+12. git push -u orgin main
+
+    git push >>> uploads your code to github
+    -u >>> this tracks your local branch upstream with remote
+    orgin >>> alias name for remote(github)
+    main >>> remote "main" branch
+
+
+The significas of -U (tracking the upstream) is that we can write onlt write "git push" only from next time onwords  
