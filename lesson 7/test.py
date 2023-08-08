@@ -1,4 +1,7 @@
 a=1
 b=2
-c=3
-print(a+b+c)
+result=a+b
+print(result)
+
+product=a*b
+print(product)
