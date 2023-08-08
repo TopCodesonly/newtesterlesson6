@@ -9,3 +9,5 @@
 4 git checkout -b <branch_name>
     >>> creates a new branch and humps to the branch by copying all the codes from current branch 
 
+5. git merge <branch name>
+    >>> merge the code form the branch provided to the current branch
