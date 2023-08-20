@@ -1,0 +1,13 @@
+1. git branch
+    >>> Displays all the branches and helight the current branch
+
+2. git branch <branch_name>
+    >>> creates a new branch with the name provided
+3. git checkout <branch_name>
+    >>> leaves the current branch and jumps to the branch provided
+
+4 git checkout -b <branch_name>
+    >>> creates a new branch and humps to the branch by copying all the codes from current branch 
+
+5. git merge <branch name>
+    >>> merge the code form the branch provided to the current branch

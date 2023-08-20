@@ -6,4 +6,3 @@ for i in a:
     x=i**2
     y.append(x)
 print(y)
-zTzBGPNiWz6kg
