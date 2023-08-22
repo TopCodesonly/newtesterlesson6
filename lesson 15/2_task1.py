@@ -7,3 +7,4 @@ class Person:
 p1=Person("red",9)
 print(p1.get_details())
 
+print(E.mro())

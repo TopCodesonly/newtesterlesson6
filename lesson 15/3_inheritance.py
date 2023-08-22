@@ -50,7 +50,7 @@ class B(A):
 class C(A):
     pass
 class D(B,C):
-    pass
+    a=5
 class E(D):
     pass
 
