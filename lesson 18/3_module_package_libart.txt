@@ -1,0 +1,16 @@
+#Each file of python with extension .py is a python module
+#Collection of these modules make a python package
+#Collection of python packages make a python libary
+
+
+
+#File transferring
+
+if __name == "__main__":
+    result=addition(2,3)
+    print(result)
+
+line 9 means only run this file when it runed from this file 
+this can be useful when another file imported this file 
+example:
+     from lesson 18 import task1
