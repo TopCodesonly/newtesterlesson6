@@ -1,0 +1,8 @@
+1. ORM stands for Object Reational Mapping
+2. Using ORM we can query the database with python Object
+3. If we use ORM then we do not have to query database with raw queries.
+4. SQLAlchemy is a famous python library  that probides ORM feature
+
+5. here is an example from Django ORM
+
+6.Student..=delate().where(student.id == "3")
