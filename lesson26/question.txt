@@ -1,0 +1,27 @@
+1.Observe the shape of the datagrake
+Use Info() method to see the details of the DF
+Set option to display max colums and rows
+4.Get first 10 DFs.
+5.Get last 10 DFs
+6.Use iloc in df to Get:
+    i. first row
+    ii. 0,1 and 2 rows
+    iii. 0,1 and 2 rows and first 2 columns
+    iv. random 3 rows and 3 columns
+    v. random 10 rows and 10 columns
+7.Use loc in df tO:
+    GET ANY THREE rows and three random colums
+    get 10 rows with 10 columns
+
+
+8.Set the df index to "Respondent" with inplace =True
+9.Sort the index in descending order
+from here done in jupyter notebook
+10.Read schems .csv and set the index to "Column" while reading the file
+11.find the meaning of the following from schema.csv file:
+    i mainBranch
+    ii 
+12.Filter Df in public.csv file whose salary > 70000
+13.Get 'Country',"Student" and "language"columns from above filter
+14.filter the DF whose country is India United Kingdom. Thailand and canada
+15. Add Further filter in above filter to check if the languageWorkedWith contains python or not
